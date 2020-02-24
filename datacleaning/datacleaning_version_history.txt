@@ -1,0 +1,4 @@
+Format: [version number] : [Initials] [what you did] @ [when]
+________________________________________________________________
+
+V1.0: BW added contents and formatted the title @22:00 on 02-23-2020
